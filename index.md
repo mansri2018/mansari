@@ -1,7 +1,7 @@
 Privacy Policy — ChatGPT Multi-Select & Mass Delete
 Last updated: 9 November 2026
 
-ChatGPT Multi-Select & Mass Delete is provided by [Publisher name]. This policy explains how the extension handles information when you use its chat-cleanup and optional paid features.
+ChatGPT Multi-Select & Mass Delete is provided by Mansari. This policy explains how the extension handles information when you use its chat-cleanup and optional paid features.
 Information the extension handles
 ChatGPT sidebar information: The extension accesses conversation links and identifiers to display selection controls and perform the operations you request. It does not read or collect the message bodies inside your conversations.
 
@@ -41,7 +41,7 @@ Clearing extension storage removes local operational information and may prevent
 Your choices
 You can use the free features without purchasing Pro. You can stop remaining operations, disable or uninstall the extension, and clear its stored data. An already-sent request may still finish after you press Stop. Permanent chat deletion cannot be undone.
 
-For privacy questions or requests concerning information held by the publisher, contact [Support email]. Requests concerning provider-held information may also require contacting the relevant provider.
+For privacy questions or requests concerning information held by the publisher, contact mnsri101986@gmail.com. Requests concerning provider-held information may also require contacting the relevant provider.
 Security and limited use
 The extension uses HTTPS for network requests. No method of storage or transmission is completely secure.
 
