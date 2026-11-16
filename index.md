@@ -1,7 +1,7 @@
-Privacy Policy — ChatGPT Multi-Select & Mass Delete
-Last updated: 9 November 2026
+Privacy Policy — Free ChatGPT Bulk Delete Chats
+Last updated: 16 November 2026
 
-ChatGPT Multi-Select & Mass Delete is provided by Mansari. This policy explains how the extension handles information when you use its chat-cleanup and optional paid features.
+Free ChatGPT Bulk Delete Chats is provided by Mansari. This policy explains how the extension handles information when you use its chat-cleanup and optional paid features.
 Information the extension handles
 ChatGPT sidebar information: The extension accesses conversation links and identifiers to display selection controls and perform the operations you request. It does not read or collect the message bodies inside your conversations.
 
